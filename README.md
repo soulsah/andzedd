@@ -4,7 +4,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheussantoss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheussantoss" height="30" width="40" /></a>
-<a href="https://instagram.com/and0xfff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and0xfff" height="30" width="40" /></a>
+<a href="https://instagram.com/gxngnir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and0xfff" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/and0xff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="and0xff" height="30" width="40" /></a>
 </p>
 
