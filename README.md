@@ -1,5 +1,5 @@
-### Olá 👋, me chamo Matheus
 #### Formado em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul
+#### Atualmente cursando Software Architecture pela FIAP
 
 Habilidades: Java / Python / JavaScript / C / C#
 
